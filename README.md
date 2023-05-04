@@ -1,4 +1,4 @@
-### Oi Eu sou o Eric :)
+### Oi, Eu sou o Eric  :)
 
 Atualmente focado na migração de carreira para Front-end. Trabalhei como UI Designer desenvolvendo sistemas e sites.
 
