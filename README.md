@@ -1,10 +1,10 @@
-### Oi, Eu sou o Eric  :)
+## Oi, Eu sou o Eric  :)
 
-Atualmente focado na migração de carreira para Front-end. Trabalhei como UI Designer desenvolvendo sistemas e sites.
+Atualmente focado na migração de carreira para Front-end. Curioso sobre animações e interações para web e maratonista de séries e filmes nas horas vagas
 
 - 👨🏻‍💻 Estudando **JavaScript**
 - 🧗🏼 Apaixonado por filmes e séries da marvel
-- 📸 Especialiando em criar **animações** e **interações**
+- 📸 Experiência como UI Designer
 - 🖥️ Atualmente mais focado em:
 
 <br>
